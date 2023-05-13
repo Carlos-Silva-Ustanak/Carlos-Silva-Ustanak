@@ -7,7 +7,7 @@
   <img width="90%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Silva-Ustanak&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Carlos-Silva-Ustanak&=gotham)
 
 
 <p align="center">
