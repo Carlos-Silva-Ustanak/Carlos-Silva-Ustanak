@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B3FA0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carlos+Antonio+Freitas+da+Silva;I'm+16+years+old;I'm+from+Brazil,+CE;I+study+computing+at+EEEP+Adolfo+Ferreira+de+Sousa;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9583B6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carlos+Antonio+Freitas+da+Silva;I'm+16+years+old;I'm+from+Brazil,+CE;I+study+computing+at+EEEP+Adolfo+Ferreira+de+Sousa;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   
-  <img width="90%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Silva-Ustanak&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="90%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Silva-Ustanak&layout=compact&hide_border=true&title_color=C8A2C8&text_color=C8A2C8&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Carlos-Silva-Ustanak&=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Silva-Ustanak&bg_color=000000&color=9e4c98&line=9e4c98&point=307dcf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -46,4 +46,4 @@
   
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B3FA0&height=120&section=footer"/>****
